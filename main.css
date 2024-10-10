@@ -1,0 +1,37 @@
+/* Schriftgröße: 12% der Viewport-Breite und 100% der Viewport-Höhe */
+h1 {
+  font-size: 12vw; 
+  height: 100vh; 
+}
+.section-1{
+    background-color: lightpink;
+    width:50%;
+}
+.p1{
+    font-size: 18px;
+}
+.section1-p2{
+    font-size:3vw;
+}
+.section1-p3{
+    font-size: 5vh;
+}
+.section-2{
+    background-color: lightblue;
+    font-size: 32px;
+}
+.section2-p1{
+    font-size: 18px;
+
+}
+.section2-p2{
+    font-size: 1em;
+}
+.section2-p3{
+    font-size: 1rem;
+}
+  .orangebox{
+    background-color: orange;
+    width: 80vw;
+    height: 50vh;
+}
